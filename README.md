@@ -9,6 +9,8 @@ I know that exist some libraries to connect modbus TCP with your C# software. I 
 
 For this reason I wrote this driver that works fine in Unity3d.
 
-You can use completely free. If this code helps you, invite me to some coffee clicking the “Donate” button in this link: http://nodlag.com/umodbustcp/ 
+You can use completely free.
+
+https://www.youtube.com/watch?v=hr6H9A9E8HA
 
 Thanks & enjoy.
